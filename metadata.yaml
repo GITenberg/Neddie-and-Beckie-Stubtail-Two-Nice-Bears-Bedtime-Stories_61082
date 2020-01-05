@@ -1,0 +1,35 @@
+_repo: Neddie-and-Beckie-Stubtail-Two-Nice-Bears-Bedtime-Stories_61082
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Howard_R._Garis
+    - http://www.gutenberg.org/ebooks/author/32638
+description: ''
+gutenberg_issued: '2020-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Neddie and Beckie Stubtail (Two Nice Bears)
+
+  Bedtime Stories'
+url: http://www.gutenberg.org/ebooks/61082
